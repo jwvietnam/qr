@@ -86,6 +86,10 @@ a button,
   width: 60vw;
   max-width: 220px;
 }
+
+.header img {
+  max-width: 256px;
+}
 .header > p {
   font-style: normal;
   font-weight: 400;
@@ -167,7 +171,7 @@ a button,
   }
 
   .header img {
-    max-width: 100%;
+    max-width: 80%;
   }
 
   .installation-steps {
